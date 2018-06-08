@@ -1,0 +1,32 @@
+Bitcoin is a system that made out of network protocols, some core cryptographic functions.
+
+Also, it includes set of game theoretical equlibrium systems that dynamically adjusts which basically means there is some economics happening at global scales. 
+
+Hence, this economics influences the operations of network protocols. 
+
+
+
+
+similar to Fiat currency. 
+
+scarcity - 21 millions. bitcoins have 8 decimals places. 
+
+which will increase/value the value.
+
+what we can do with bitcoin ?
+
+there can be transactions fee. 
+
+as the volume of transactions will increase, the fees will go up. 
+
+Unlike credit card accidental payments, transaction is irreversible. 
+
+Bitcoin is governed by algorithm. but the algorithm could be changed(42 million bitcoins)
+
+Computers are based on ASIC cheap and this cheap does only one type of operation(Hash function). 
+
+
+
+
+
+ 

@@ -1,0 +1,24 @@
+000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+
+==========BlockChain=======================
+Problem Money Transfer:
+A Transfer money to  B through 3rd Party (It takes 3 days) 
+
+====Block chain trasnfer money without 3rd party with===
+1. taking less time i.e immediately
+2. with very less amount of Tx. Fees
+
+====Open Ledger=============
+
+Summary:
+block chain is not bitcoin.
+
+we learned that blockchain is basic principle of ledgers that are open and public to all 
+
+Miners - special nodes in the network whose role is to validate the transaction. 
+
+7109aa30202a053e86ecca245c5d9a95b6be25c91ecbb88ca4369330b28fccad
+
+https://www.quora.com/In-simple-terms-how-does-bitcoin-mining-work
+
+
