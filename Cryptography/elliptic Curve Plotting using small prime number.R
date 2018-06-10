@@ -1,4 +1,4 @@
-prime_num <- 13
+prime_num <- 17
 
 x <- 1:prime_num
 
