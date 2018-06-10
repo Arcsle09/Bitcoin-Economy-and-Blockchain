@@ -1,4 +1,4 @@
-#Step3: Proof of Work Alogrithm
+# Step3: Proof of Work Alogrithm
 
 proof_of_work <- function(last_nonce){
   nonce <- 0
