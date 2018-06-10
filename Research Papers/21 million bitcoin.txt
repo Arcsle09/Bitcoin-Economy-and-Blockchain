@@ -24,14 +24,15 @@ Multiply the two:
 
 210,000 * 100 = 21 million.
 
-===================================================================================================================================================
+========================================================================================================================================
+
 Well when bitcoin was introduced for every block created one was awarded 50 bitcoins and that occurred every 10 minutes.
 
 Because there are 1440 minutes (24x60) in every day, that means that 144 blocks were created so 144X50 = 7200 bitcoins per day
 
 4 years are 1461 days (including the leap one) so the total bitcoins for the 1st 4 years is 1461 X 7200 = 10519200
 
-Now .. since every 4 years we have to double-down the amount of bitcoins prize for every block found, the total bitcoins are 10519200 *(1 + 1/2 + 1/4+1/8 + … +1/2^n) = 10519200 *2 = 21038400 (its well know that 1+0.5+0.25+0.125+.. = 2 )
+Now .. since every 4 years we have to double-down the amount of bitcoins prize for every block found, the total bitcoins are 10519200 *(1 + 1/2 + 1/4+1/8 + â€¦ +1/2^n) = 10519200 *2 = 21038400 (its well know that 1+0.5+0.25+0.125+.. = 2 )
 
 That number 21038400 is the theoretical limit since we cannot go forever mining a millionth trillionth of a satoshi. Actually (as for now) we cannot go less that 1 satoshi anyway. So the real number is just a little bit smaller than that, maybe 21038399.99999999 or 1 satoshi away from the theoretical calculation.
 
@@ -39,7 +40,7 @@ Now since every 4 years we have a double-down that means than in 40 years (in 20
 
 After 80 years (in 2089) the new bitcoins released for each block wil be 0.00005 bcoins/block (accurate result is 0.00004768 )
 
-and after 120 years (in 2129) 0.00000005 or 5 satoshi per block (accurate result is 0.00000004656612873 or 0.00000004 or 4 satoshi). I dont know if its going to be 4 or 5 satoshi at that point … but i believe that 4 is the most precise although 5 is more close to the theoretical result)
+and after 120 years (in 2129) 0.00000005 or 5 satoshi per block (accurate result is 0.00000004656612873 or 0.00000004 or 4 satoshi). I dont know if its going to be 4 or 5 satoshi at that point â€¦ but i believe that 4 is the most precise although 5 is more close to the theoretical result)
 
 The next 4 years (in 2133) it will fall to 2 satoshi and the next 4 (in 2037) to 1 shatoshi and in 2141 its less than a satoshi so it cannot continue after that to double down and the process stops since its less than the smallest defined unit which is a satoshi. So the last year of rewards will be 2140AD and for each block released you get a reward of 1 satoshi !!!
 
