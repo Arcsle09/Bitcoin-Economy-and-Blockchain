@@ -1,4 +1,4 @@
-#incomplete #coercion is happeing after 42 characters. 
+#incomplete #coercion is happening after 42 characters. 
 binary <- function(x) {
      i <- 0
      string <- numeric(256)
